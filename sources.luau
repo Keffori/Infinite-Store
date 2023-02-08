@@ -11,6 +11,21 @@ return {
 	},
 	]]
 	--
+	["CoinFlip"] = {
+		["Name"] = "CoinFlip",
+		["Creator"] = "Unknown",
+		["CreationDate"] = "Unknown",
+		["GithubLink"] = "https://raw.githubusercontent.com/Keffori/Infinite-Store/main/Plugins/coinflip.plugin.luau",
+		["Commands"] = { "cf" },
+	},
+
+	["CustomIY"] = {
+		["Name"] = "CustomIY",
+		["Creator"] = "Unknown",
+		["CreationDate"] = "Unknown",
+		["GithubLink"] = "https://raw.githubusercontent.com/Keffori/Infinite-Store/main/Plugins/customIY.plugin.luau",
+		["Commands"] = { "many" },
+	},
 
 	["FakeChat"] = {
 		["Name"] = "FakeChat",
