@@ -21,7 +21,7 @@ local IS_Settings = {
 	),
 }
 
-local ann = "Welcome To Infinite Store [WE ARE BACK]"
+local ann = "Update 1.0.1, Added new plugins: CoinFlip, AntiFling, CustomIY"
 local _UserSettings = {
 	["StartMinimized"] = false,
 	["SafeMode"] = false,
