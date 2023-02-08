@@ -548,7 +548,7 @@ Photo.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Photo.BackgroundTransparency = 1.000
 Photo.Size = UDim2.new(1, 0, 0.737588704, 0)
 Photo.ZIndex = 102
-Photo.Image = "http://www.roblox.com/asset/?id=7657546445"
+Photo.Image = "http://www.roblox.com/asset/?id=7657548002"
 Name.Name = "Name"
 Name.Parent = Round
 Name.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
@@ -599,7 +599,7 @@ Photo_2.BackgroundTransparency = 1.000
 Photo_2.Position = UDim2.new(0, 0, 0.0443883538, 0)
 Photo_2.Size = UDim2.new(0.331353962, 0, 0.672107756, 0)
 Photo_2.ZIndex = 102
-Photo_2.Image = "http://www.roblox.com/asset/?id=7657547318"
+Photo_2.Image = "http://www.roblox.com/asset/?id=7657548002"
 Name_2.Name = "Name"
 Name_2.Parent = Round_2
 Name_2.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
@@ -654,7 +654,7 @@ Photo3.BackgroundTransparency = 1.000
 Photo3.Position = UDim2.new(0.662352085, 0, 0.0443883538, 0)
 Photo3.Size = UDim2.new(0.331353962, 0, 0.672107756, 0)
 Photo3.ZIndex = 102
-Photo3.Image = "http://www.roblox.com/asset/?id=7672670653"
+Photo3.Image = "http://www.roblox.com/asset/?id=7657548002"
 Name3.Name = "Name3"
 Name3.Parent = Round_2
 Name3.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
