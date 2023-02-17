@@ -5,6 +5,8 @@
 
 ![Screenshot 1](/Image/Screenshot_2023-02-17-16-03-05-981_com.roblox.client.jpg/ "This is a first screenshot of script")
 
+![Screenshot 2](/Image/Screenshot_2023-02-17-16-03-15-709_com.roblox.client.jpg/ "This is a second screenshot of script")
+
 ## Links
 
 [Loadstring](https://raw.githubusercontent.com/Keffori/Infinite-Store/main/loadstring.lua)
