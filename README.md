@@ -1,5 +1,5 @@
 <h1 align="center">
-	Infinite Shopping Market
+	Infinite Shopping Mart
 </h1>
 
 <p align="center">
