@@ -7,7 +7,11 @@
 </h1>
 
 <p align="center">
-	The <em>cool</em> way to add plugins (themes is lie) to Infinite Yield!
+	The <em>cool</em> way to add plugins to Infinite Yield!
+</p>
+
+<p align="center">
+	Don't ask about themes, they are gone!
 </p>
 
 <p align="center">
