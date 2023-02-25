@@ -1,5 +1,3 @@
--- Scheduled for deprecation in 1.4.0
-
 return {
 	--[[
 	["Example"] = {
@@ -11,12 +9,21 @@ return {
 	},
 	]]
 	--
-	["CoinFlip"] = {
-		["Name"] = "CoinFlip",
-		["Creator"] = "Unknown",
+
+	["IY+"] = {
+		["Name"] = "InfiniteYield+",
+		["Creator"] = "random#4632",
 		["CreationDate"] = "Unknown",
-		["GithubLink"] = "https://raw.githubusercontent.com/Keffori/Infinite-Store/main/Plugins/coinflip.plugin.luau",
-		["Commands"] = { "cf" },
+		["GithubLink"] = "https://raw.githubusercontent.com/Keffori/Infinite-Store/main/Plugins/IY-plus.plugin.luau",
+		["Commands"] = { "compliment insult follow unfollow rejoinrefresh freezecam inviscam viscam orbit orbit2 unorbit trip walk unwalk nosit unnosit die backupsave autobackupsave noautobackupsave" },
+	},
+
+	["LoadLink"] = {
+		["Name"] = "LoadLink",
+		["Creator"] = "boyfriend#6534",
+		["CreationDate"] = "02/25/2023",
+		["GithubLink"] = "https://raw.githubusercontent.com/Keffori/Infinite-Store/main/Plugins/loadlink.plugin.luau",
+		["Commands"] = { "loadlink your_raw_link" },
 	},
 
 	["CustomIY"] = {
@@ -168,8 +175,8 @@ return {
 		["Name"] = "AntiFling",
 		["Creator"] = "Unknown",
 		["CreationDate"] = "Unknown",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/antifling.plugin.luau",
-		["Commands"] = { "antifling" },
+		["GithubLink"] = "https://raw.githubusercontent.com/Keffori/Infinite-Store/main/Plugins/antifling.plugin.luau",
+		["Commands"] = { "I dont know what commands, turn on your brain" },
 	},
 
 	["AntiKill"] = {
