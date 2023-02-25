@@ -21,7 +21,7 @@ local IS_Settings = {
 	),
 }
 
-local ann = "Update 1.0.1, Added new plugins: CoinFlip, AntiFling, CustomIY"
+local ann = "Update 1.0.2, see changelog in discord"
 local _UserSettings = {
 	["StartMinimized"] = false,
 	["SafeMode"] = false,
