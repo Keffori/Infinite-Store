@@ -1,6 +1,9 @@
 <h1 align="center">
 	Infinite Shopping Mart
-	Current version: 1.0.1
+</h1>
+
+<h1 align="center">
+	Current Version: 1.0.1
 </h1>
 
 <p align="center">
