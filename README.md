@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-	<a href="https://discord.gg/dv96SXYmxz">
+	<a href="https://discord.gg/SkAneeutak">
 		<img alt="Discord" src="https://img.shields.io/discord/1014040973027844106?color=%235865F2&logo=discord&logoColor=%23DCDDDE&style=flat-square">
 
 (Beware of fake discords, the only official discord is on this README)
