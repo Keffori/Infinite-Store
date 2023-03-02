@@ -10,6 +10,14 @@ return {
 	]]
 	--
 
+    ["ArceusX"] = {
+		["Name"] = "ArceusX 3.0 UI",
+		["Creator"] = "chillz",
+		["CreationDate"] = "03/02/2023",
+		["GithubLink"] = "https://raw.githubusercontent.com/Keffori/Infinite-Store/main/Plugins/arceusx.plugin.luau",
+		["Commands"] = { "arceus arc" },
+	},
+
 	["IY+"] = {
 		["Name"] = "InfiniteYield+",
 		["Creator"] = "random#4632",
