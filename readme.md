@@ -19,6 +19,13 @@
 		<img alt="Discord" src="https://img.shields.io/discord/1011975596806512650?color=blue&logo=discord&logoColor=white">
 
 
+## Images
+
+![Screenshot](/Image/Screenshot_2023-02-17-16-03-05-981_com.roblox.client.jpg "This is a screenshot of main tab")
+![Screenshot](/Image/Screenshot_2023-02-17-16-03-15-709_com.roblox.client.jpg "This is a screenshot of plugins tab")
+![Screenshot](/Image/Screenshot_2023-02-17-16-03-22-998_com.roblox.client.jpg "This is a screenshot of settings tab")
+
+
 ## Usage
 
 The loader allows Infinite Store to always be kept up-to-date without re-downloading it every time you want to use it.
