@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-	  The <em>cool</em> way to add plugins to Infinite Yield!
+	  The <em>cool</em>  way to add plugins to Infinite Yield!
 </p>
 
 <p align="center">
