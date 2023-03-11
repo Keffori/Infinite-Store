@@ -10,9 +10,17 @@ return {
 	]]
 	--
 
+    ["Pov maker like for doors"] = {
+		["Name"] = "Pov",
+		["Creator"] = "?",
+		["CreationDate"] = "?",
+		["GithubLink"] = "https://raw.githubusercontent.com/Keffori/Infinite-Store/main/Plugins/Pov.plugin.luau",
+		["Commands"] = { "pov [modelName] , startpov [modelName] , unpov | exitpov" },
+	},
+
     ["ArceusX"] = {
 		["Name"] = "ArceusX 3.0 UI",
-		["Creator"] = "chillz",
+		["Creator"] = "chilz",
 		["CreationDate"] = "03/02/2023",
 		["GithubLink"] = "https://raw.githubusercontent.com/Keffori/Infinite-Store/main/Plugins/arceusx.plugin.luau",
 		["Commands"] = { "arceus arc" },
