@@ -10,12 +10,20 @@ return {
 	]]
 	--
 
+    ["BodyDeletor"] = {
+		["Name"] = "BodyDeletor",
+		["Creator"] = "?",
+		["CreationDate"] = "?",
+		["GithubLink"] = "https://raw.githubusercontent.com/Keffori/Infinite-Store/main/Plugins/bodydeletor.plugin.luau",
+		["Commands"] = { "See in discord" },
+	},
+
     ["Pov maker like for doors"] = {
 		["Name"] = "Pov",
 		["Creator"] = "?",
 		["CreationDate"] = "?",
 		["GithubLink"] = "https://raw.githubusercontent.com/Keffori/Infinite-Store/main/Plugins/Pov.plugin.luau",
-		["Commands"] = { "pov [modelName] , startpov [modelName] , unpov | exitpov" },
+		["Commands"] = { "See in discord" },
 	},
 
     ["ArceusX"] = {
