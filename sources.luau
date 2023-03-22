@@ -10,6 +10,14 @@ return {
 	]]
 	--
 
+    ["JoinJobID"] = {
+		["Name"] = "JoinJobID",
+		["Creator"] = "?",
+		["CreationDate"] = "?",
+		["GithubLink"] = "https://raw.githubusercontent.com/Keffori/Infinite-Store/main/Plugins/joinjobid.plugin.luau",
+		["Commands"] = { "See in discord" },
+	},
+
     ["BodyDeletor"] = {
 		["Name"] = "BodyDeletor",
 		["Creator"] = "?",
