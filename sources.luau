@@ -2,13 +2,53 @@ return {
 	--[[
 	["Example"] = {
 		["Name"] = "Example",
-		["Creator"] = "InfiniteStore",
-		["CreationDate"] = "Unknown",
+		["Creator"] = "creator here",
+		["CreationDate"] = "creation date here",
 		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/example.plugin.luau",
 		["Commands"] = {"command1"},
 	},
 	]]
 	--
+
+    ["be-a-ball"] = {
+		["Name"] = "Be a Ball!?",
+		["Creator"] = "?",
+		["CreationDate"] = "?",
+		["GithubLink"] = "https://raw.githubusercontent.com/Keffori/Infinite-Store/main/Plugins/BeAball.plugin.luau",
+		["Commands"] = { "ball" },
+	},
+
+    ["Doors-entity-notify"] = {
+		["Name"] = "Doors-entity-notify",
+		["Creator"] = "info: maybe dont work",
+		["CreationDate"] = "?",
+		["GithubLink"] = "https://raw.githubusercontent.com/FFJ1/Roblox-Exploits/main/plugins/doorsevent.iyu",
+		["Commands"] = { "idk, maybe dont have" },
+	},
+
+    ["Netless-run-from-iy"] = {
+		["Name"] = "Netless",
+		["Creator"] = "?",
+		["CreationDate"] = "?",
+		["GithubLink"] = "https://raw.githubusercontent.com/Keffori/Infinite-Store/main/Plugins/netless.plugin.luau",
+		["Commands"] = { "netless" },
+	},
+
+    ["AprilFoolsUpdate"] = {
+		["Name"] = "AprilFools",
+		["Creator"] = "?",
+		["CreationDate"] = "?",
+		["GithubLink"] = "https://raw.githubusercontent.com/Keffori/Infinite-Store/main/Plugins/aprilfools.plugin.luau",
+		["Commands"] = { "dont have cmds" },
+	},
+
+    ["BallerESP"] = {
+		["Name"] = "Baller ESP",
+		["Creator"] = "?",
+		["CreationDate"] = "?",
+		["GithubLink"] = "https://raw.githubusercontent.com/Keffori/Infinite-Store/main/Plugins/balleresp.plugin.luau",
+		["Commands"] = { "See in discord" },
+	},
 
     ["JoinJobID"] = {
 		["Name"] = "JoinJobID",
