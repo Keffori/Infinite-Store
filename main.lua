@@ -13,7 +13,7 @@ if not IY_LOADED then
 end
 
 local IS_Settings = {
-	["Version"] = "1.0.6",
+	["Version"] = "1.0.7",
 	["Invite"] = "SkAneeutak",
 	["Plugins"] = LoadUrl("https://raw.githubusercontent.com/Keffori/Infinite-Store/main/sources.luau"),
 	["NsfwPlugins"] = LoadUrl(
