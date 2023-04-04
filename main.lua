@@ -21,7 +21,7 @@ local IS_Settings = {
 	),
 }
 
-local ann = "Update 1.0.6, see changelog in discord"
+local ann = "Update 1.0.7, see changelog in discord"
 local _UserSettings = {
 	["StartMinimized"] = false,
 	["SafeMode"] = true,
