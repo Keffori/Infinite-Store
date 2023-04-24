@@ -18,14 +18,6 @@ return {
 		["Commands"] = { "ball" },
 	},
 
-    ["Doors-entity-notify"] = {
-		["Name"] = "Doors-entity-notify",
-		["Creator"] = "info: maybe dont work",
-		["CreationDate"] = "?",
-		["GithubLink"] = "https://raw.githubusercontent.com/FFJ1/Roblox-Exploits/main/plugins/doorsevent.iyu",
-		["Commands"] = { "idk, maybe dont have" },
-	},
-
     ["Netless-run-from-iy"] = {
 		["Name"] = "Netless",
 		["Creator"] = "?",
@@ -235,14 +227,6 @@ return {
 		["Commands"] = { "unload" },
 	},
 
-	["AddAllPlugins"] = {
-		["Name"] = "AddAllPlugins",
-		["Creator"] = "prisj",
-		["CreationDate"] = "04/09/2021",
-		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/addallplugins.plugin.luau",
-		["Commands"] = { "addallplugins / aap" },
-	},
-
 	["AntiFling"] = {
 		["Name"] = "AntiFling",
 		["Creator"] = "Unknown",
@@ -339,9 +323,9 @@ return {
 		["Commands"] = { "translate [translate chat]" },
 	},
 
-	["Crash"] = {
-		["Name"] = "Crash",
-		["Creator"] = "Unknown",
+	["Ligma.wtf number 1"] = {
+		["Name"] = "Ligma.wtf number 1",
+		["Creator"] = "DONT DONWLOAD IT IT WILL MAKE 1 FPS",
 		["CreationDate"] = "Unknown",
 		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/crash.plugin.luau",
 		["Commands"] = { "crash" },
@@ -436,8 +420,8 @@ return {
 		["Commands"] = { "killsounds / ks" },
 	},
 
-	["LagServer"] = {
-		["Name"] = "LagServer",
+	["Ligma.wtf but lag server"] = {
+		["Name"] = "Ligma.wtf but lag server",
 		["Creator"] = "Unknown",
 		["CreationDate"] = "Unknown",
 		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/lag.plugin.luau",
