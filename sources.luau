@@ -9,7 +9,7 @@ return {
 	},
 	]]
 	--
-
+	--[[
     ["fake verified logo"] = {
 		["Name"] = "Fake verified logo",
 		["Creator"] = "Kiwi Bird",
@@ -41,6 +41,20 @@ return {
 		["GithubLink"] = "https://raw.githubusercontent.com/Keffori/Infinite-Store/main/Plugins/fakepremium.plugin.luau",
 		["Commands"] = { "?" },
 	},
+	--
+	]]
+
+
+	--[[
+	["Example"] = {
+		["Name"] = "Example",
+		["Creator"] = "creator here",
+		["CreationDate"] = "creation date here",
+		["GithubLink"] = "https://cdn.jsdelivr.net/gh/Infinite-Store/Infinite-Store@main/plugins/example.plugin.luau",
+		["Commands"] = {"command1"},
+	},
+	]]
+	--
 
     ["be-a-ball"] = {
 		["Name"] = "Be a Ball!?",
