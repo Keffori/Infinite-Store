@@ -10,6 +10,38 @@ return {
 	]]
 	--
 
+    ["fake verified logo"] = {
+		["Name"] = "Fake verified logo",
+		["Creator"] = "Kiwi Bird",
+		["CreationDate"] = "04/19/2023",
+		["GithubLink"] = "https://raw.githubusercontent.com/Keffori/Infinite-Store/main/Plugins/fakeverifiedlogo.plugin.luau",
+		["Commands"] = { "?" },
+	},
+
+    ["fake roblox logo"] = {
+		["Name"] = "Fake Roblox Logo",
+		["Creator"] = "Kiwi Bird",
+		["CreationDate"] = "04/19/2023",
+		["GithubLink"] = "https://raw.githubusercontent.com/Keffori/Infinite-Store/main/Plugins/fakerobloxlogo.plugin.luau",
+		["Commands"] = { "?" },
+	},
+
+    ["fake star code logo"] = {
+		["Name"] = "Fake Star Creator",
+		["Creator"] = "Kiwi Bird",
+		["CreationDate"] = "04/19/2023",
+		["GithubLink"] = "https://raw.githubusercontent.com/Keffori/Infinite-Store/main/Plugins/fakestarcreator.plugin.luau",
+		["Commands"] = { "?" },
+	},
+
+    ["fake premium"] = {
+		["Name"] = "Fake Premuim",
+		["Creator"] = "Kiwi Bird",
+		["CreationDate"] = "04/19/2023",
+		["GithubLink"] = "https://raw.githubusercontent.com/Keffori/Infinite-Store/main/Plugins/fakepremium.plugin.luau",
+		["Commands"] = { "?" },
+	},
+
     ["be-a-ball"] = {
 		["Name"] = "Be a Ball!?",
 		["Creator"] = "?",
