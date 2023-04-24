@@ -13,7 +13,7 @@ if not IY_LOADED then
 end
 
 local IS_Settings = {
-	["Version"] = "1.0.9",
+	["Version"] = "1.0.8",
 	["Invite"] = "SkAneeutak",
 	["Plugins"] = LoadUrl("https://raw.githubusercontent.com/Keffori/Infinite-Store/main/sources.luau"),
 	["NsfwPlugins"] = LoadUrl(
@@ -21,7 +21,7 @@ local IS_Settings = {
 	),
 }
 
-local ann = "Update 1.0.9, see changelog in discord"
+local ann = "Update 1.0.9, Released? No, it doesnt works"
 local _UserSettings = {
 	["StartMinimized"] = false,
 	["SafeMode"] = true,
