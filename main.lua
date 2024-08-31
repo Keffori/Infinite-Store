@@ -21,7 +21,7 @@ local IS_Settings = {
 	),
 }
 
-local ann = "UPDATE 1.0.9 RELEASED WOW OMG"
+local ann = "Update 1.0.9 released"
 local _UserSettings = {
 	["StartMinimized"] = false,
 	["SafeMode"] = true,
@@ -504,7 +504,7 @@ Welcome.Position = UDim2.new(0.230750099, 0, 0.123333335, 0)
 Welcome.Size = UDim2.new(0.534000397, 0, 0.203333333, 0)
 Welcome.ZIndex = 51
 Welcome.Font = Enum.Font.Gotham
-Welcome.Text = "Welcome To"
+Welcome.Text = "Welcome To Infinite Shit"
 Welcome.TextColor3 = Color3.fromRGB(206, 206, 206)
 Welcome.TextSize = 30.000
 Welcome.TextTransparency = 1.000
@@ -516,7 +516,7 @@ cart.BackgroundTransparency = 1.000
 cart.Position = UDim2.new(-0.244705886, 0, -0.0500000007, 0)
 cart.Size = UDim2.new(0, 208, 0, 208)
 cart.ZIndex = 26
-cart.Image = "http://www.roblox.com/asset/?id=7244695078"
+cart.Image = "http://www.roblox.com/asset/?id=1"
 text.Name = "text"
 text.Parent = Home
 text.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
@@ -558,7 +558,7 @@ Name.Position = UDim2.new(0, 0, 0.737588584, 0)
 Name.Size = UDim2.new(1, 0, 0.262410909, 0)
 Name.ZIndex = 100
 Name.Font = Enum.Font.Gotham
-Name.Text = "Keffori"
+Name.Text = "rexkau"
 Name.TextColor3 = Color3.fromRGB(206, 206, 206)
 Name.TextSize = 25.000
 Name.TextWrapped = true
@@ -599,7 +599,7 @@ Photo_2.BackgroundTransparency = 1.000
 Photo_2.Position = UDim2.new(0, 0, 0.0443883538, 0)
 Photo_2.Size = UDim2.new(0.331353962, 0, 0.672107756, 0)
 Photo_2.ZIndex = 102
-Photo_2.Image = "http://www.roblox.com/asset/?id=7657548002"
+Photo_2.Image = "http://www.roblox.com/asset/?id=1"
 Name_2.Name = "Name"
 Name_2.Parent = Round_2
 Name_2.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
@@ -609,7 +609,7 @@ Name_2.Position = UDim2.new(0, 0, 0.716495931, 0)
 Name_2.Size = UDim2.new(0.331353962, 0, 0.239114851, 0)
 Name_2.ZIndex = 100
 Name_2.Font = Enum.Font.Gotham
-Name_2.Text = "Keffori"
+Name_2.Text = "?"
 Name_2.TextColor3 = Color3.fromRGB(206, 206, 206)
 Name_2.TextSize = 25.000
 Name_2.TextWrapped = true
@@ -633,7 +633,7 @@ Photo2.BackgroundTransparency = 1.000
 Photo2.Position = UDim2.new(0.331353813, 0, 0.0443883538, 0)
 Photo2.Size = UDim2.new(0.331353962, 0, 0.672107756, 0)
 Photo2.ZIndex = 102
-Photo2.Image = "http://www.roblox.com/asset/?id=7657548002"
+Photo2.Image = "http://www.roblox.com/asset/?id=1"
 Name2.Name = "Name2"
 Name2.Parent = Round_2
 Name2.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
@@ -643,7 +643,7 @@ Name2.Position = UDim2.new(0.331353813, 0, 0.716495931, 0)
 Name2.Size = UDim2.new(0.331353962, 0, 0.239114851, 0)
 Name2.ZIndex = 100
 Name2.Font = Enum.Font.Gotham
-Name2.Text = "Keffori"
+Name2.Text = "?"
 Name2.TextColor3 = Color3.fromRGB(206, 206, 206)
 Name2.TextSize = 25.000
 Name2.TextWrapped = true
@@ -654,7 +654,7 @@ Photo3.BackgroundTransparency = 1.000
 Photo3.Position = UDim2.new(0.662352085, 0, 0.0443883538, 0)
 Photo3.Size = UDim2.new(0.331353962, 0, 0.672107756, 0)
 Photo3.ZIndex = 102
-Photo3.Image = "http://www.roblox.com/asset/?id=7657548002"
+Photo3.Image = "http://www.roblox.com/asset/?id=1"
 Name3.Name = "Name3"
 Name3.Parent = Round_2
 Name3.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
@@ -664,7 +664,7 @@ Name3.Position = UDim2.new(0.662352085, 0, 0.716495931, 0)
 Name3.Size = UDim2.new(0.331353962, 0, 0.239114851, 0)
 Name3.ZIndex = 100
 Name3.Font = Enum.Font.Gotham
-Name3.Text = "Keffori"
+Name3.Text = "?"
 Name3.TextColor3 = Color3.fromRGB(206, 206, 206)
 Name3.TextSize = 25.000
 Name3.TextWrapped = true
@@ -1138,7 +1138,7 @@ end)
 mainFrame.TopBar.Close.MouseButton1Click:Connect(function()
 	mainFrame:TweenPosition(UDim2.new(0.5, -250, 0, -500), "InOut", "Quart", 0.5, true, nil)
 end)
-mainFrame.TopBar.Title.Text = ("Infinite Store " .. IS_Settings["Version"])
+mainFrame.TopBar.Title.Text = ("Infinite Shit " .. IS_Settings["Version"])
 DiscordInvite.Text = (".gg/" .. IS_Settings["Invite"])
 autoCanvas(List_2, UIGridLayout)
 autoCanvas(List_3, UIGridLayout_3)
