@@ -20,10 +20,10 @@
 The loader allows Infinite Store to always be kept up-to-date without re-downloading it every time you want to use it.
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Keffori/Infinite-Store/main/main.lua"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/97XiFg6b"))()
 ```
 
-## Images
+## Images (OLD)
 
 ![Screenshot](/Image/Screenshot_2023-02-17-16-03-05-981_com.roblox.client.jpg "This is a screenshot of main tab")
 ![Screenshot](/Image/Screenshot_2023-02-17-16-03-15-709_com.roblox.client.jpg "This is a screenshot of plugins tab")
