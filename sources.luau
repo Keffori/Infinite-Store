@@ -55,7 +55,6 @@ return {
 	},
 	]]
 	--
-
     ["ArsenalHack"] = {
 		["Name"] = "Arsenal Script",
 		["Creator"] = "?",
