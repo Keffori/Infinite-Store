@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Keffori/Infinite-Store/main/main.lua"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/97XiFg6b"))()
