@@ -55,6 +55,15 @@ return {
 	},
 	]]
 	--
+
+    ["ArsenalHack"] = {
+		["Name"] = "Arsenal Script",
+		["Creator"] = "?",
+		["CreationDate"] = "31/08/2024",
+		["GithubLink"] = "https://raw.githubusercontent.com/Keffori/Infinite-Store/main/Plugins/arsenal.plugin.luau",
+		["Commands"] = { "arsenal" },
+	},
+
     ["be-a-ball"] = {
 		["Name"] = "Be a Ball!?",
 		["Creator"] = "?",
