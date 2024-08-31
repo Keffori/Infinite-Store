@@ -17,11 +17,10 @@
 
 ## Usage
 
-"The loader allows Infinite Store to always be kept up-to-date without re-downloading it every time you want to use it" 
-NO, rn just sometimes check this page to get new version
+The loader allows Infinite Store to always be kept up-to-date without re-downloading it every time you want to use it
 
 ```lua
-loadstring(game:HttpGet("https://pastebin.com/raw/97XiFg6b"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Keffori/Infinite-Store/main/main.luau"))()
 ```
 
 ## Images (OLD)
